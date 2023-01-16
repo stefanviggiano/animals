@@ -1,0 +1,5 @@
+*
+!.gitignore
+!Animals/
+!Animals/Makefile
+!Animals/Animals.csproj
